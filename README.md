@@ -1,4 +1,4 @@
-# AS 11 Overview
+# AS-11 Overview
 
 This project is used to host information relating to all [AMWA AS-11 rules based Specifications](http://amwa.tv/projects/AS-11.shtml):
 
